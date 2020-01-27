@@ -1,0 +1,46 @@
+Exercise:
+
+Manchester City F.C.         Manchester       1880 3
+Chelsea F.C.                 London           1905 1
+Leicester City F.C.          Leicester        1884 12
+Arsenal F.C.                 London           1893 5
+Crystal Palace F.C.          London           1905 14
+Tottenham Hotspur F.C.       London           1882 2
+Manchester United F.C.       Manchester       1878 6
+Southampton F.C.             Southampton      1885 8
+
+
+Create an index that sorts the following file by foundation year on a line number basis:
+
+1878   7
+1880   1
+1882   6
+1884   3
+1885   8
+1893   4
+1905   2
+1905   5
+
+Create an index that sorts the file from the previous exercise by reverse position in the 2016/2017 year on a line number basis.
+
+   14  5
+   12  3
+   8   8
+   6   7
+   5   4
+   3   1
+   2   6
+   1   2
+
+
+Create an index that sorts the file from the previous exercise by city and team on a line number basis.
+
+Leicester City F.C.          Leicester        3
+Arsenal F.C.                 London           4
+Chelsea F.C.                 London           2
+Crystal Palace F.C.          London           5
+Tottenham Hotspur F.C.       London           6
+Manchester City F.C.         Manchester       1
+Manchester United F.C.       Manchester       7
+Southampton F.C.             Southampton      8
+
